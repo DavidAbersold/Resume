@@ -8,6 +8,8 @@ layout: default
 
 # Introduction
 
+---
+
 My name is David Abersold. I am a sophomore psychology, neuroscience, and premedicine student at Miami University of Ohio. I am also a National Registry certified EMT, a lifeguard, and an admirer of living things. I have loved learning about the intricacies of organic things and how they coalesce into the comfortable, familiar, and the challenging.
 </div>
 
@@ -18,6 +20,8 @@ Undergraduate psychology, neuroscience, and premed student at Miami University o
 Downingtown East High School, Exton, Pennsylvania; graduated in 2023 
 
 # Work Experience
+
+---
 
 ## Lifeguard
 
@@ -43,6 +47,8 @@ As part of certification, worked a total of 40 hours including responding to 12 
   
 # Clubs and Organizations
 
+---
+
 ## Climbing Club Safety Officer/Leader
 
 * 2023 - Present, approx 20 hours/month
@@ -67,6 +73,8 @@ Climbing takes place in many natural areas claimed by the US government and priv
 
 
 # Hobbies/Other Activities
+
+---
 
 ##Miami Apiculture Society
 Extracting the past season's honey using a large hand-crank centrifuge.
