@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-"...lay down in the sunlight, on pine needles, indifferent to the busy ants, the scrabbling squirrels, the crested jays, the galaxies of midges dancing in the sunrays, and slept." - The Monkey Wrench Gang, by Edward Abbey, one of my [favorite books](./favorite-books.html).
+> "...lay down in the sunlight, on pine needles, indifferent to the busy ants, the scrabbling squirrels, the crested jays, the galaxies of midges dancing in the sunrays, and slept."
+- The Monkey Wrench Gang, by Edward Abbey, one of my [favorite books](./favorite-books.html).
 
 # Introduction
 
@@ -24,14 +25,18 @@ My longest held position, I have been going to the Lionville YMCA since I was a 
 
 ![Lifeguarding](./assets/img/lifeguarding.PNG)
 
+*Training drill at a our "Lifeguard Games" event.* 
+
 ## National Registry EMT
 
 * June 2024, approx 40 hours
 
 As part of certification, worked a total of 40 hours including responding to 12 calls as a third crew-member, alongside paramedics, EMTs, and AEMTs. Trained by Uwchlan Ambulance, my local and well respected ambulance company, and the National Registry on August 24th, 2024.
 
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;"> 
 ![Ambulance](./assets/img/ambulance.PNG)
-
+</div>
+*My Office*
   
 # Clubs and Organizations
 
