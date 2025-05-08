@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-Psychology, Neuroscience, Premedicine student requires a multidisciplinary course load that has expanded my perspective.
+Psychology, Neuroscience, Premedicine student requires a multidisciplinary course load that has expanded my perspective. For a more detailed transcript, please contact me.
 
 * General Chemistry 1 & 2
 * General Chemistry Laboratory 1 & 2
