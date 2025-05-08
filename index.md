@@ -4,9 +4,12 @@ layout: default
 > "...lay down in the sunlight, on pine needles, indifferent to the busy ants, the scrabbling squirrels, the crested jays, the galaxies of midges dancing in the sunrays, and slept."
 - The Monkey Wrench Gang, by Edward Abbey, one of my [favorite books](./favorite-books.html).
 
+<div style="background-color: #E6FFF2 ; padding: 10px; border: 1px #E6FFF2;"> 
+
 # Introduction
 
 My name is David Abersold. I am a sophomore psychology, neuroscience, and premedicine student at Miami University of Ohio. I am also a National Registry certified EMT, a lifeguard, and an admirer of living things. I have loved learning about the intricacies of organic things and how they coalesce into the comfortable, familiar, and the challenging.
+</div>
 
 # Education
 
@@ -33,9 +36,9 @@ My longest held position, I have been going to the Lionville YMCA since I was a 
 
 As part of certification, worked a total of 40 hours including responding to 12 calls as a third crew-member, alongside paramedics, EMTs, and AEMTs. Trained by Uwchlan Ambulance, my local and well respected ambulance company, and the National Registry on August 24th, 2024.
 
-<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;"> 
+
 ![Ambulance](./assets/img/ambulance.PNG)
-</div>
+
 *My Office*
   
 # Clubs and Organizations
@@ -71,6 +74,8 @@ Extracting the past season's honey using a large hand-crank centrifuge.
 A smaller club based around managing our ~6 hives on campus, and producing honey and other wax based products as well as advocacy for wilderness protection. We are guided by distinguished beekeeper and scientist Alex Zomchek. His knowledge is valuable to us, as well as his wisdom. Mr. Zomchek is known among us for his love of metaphor and allegory when talking about his bees, and there is so much that can be applied to bees. I find that they are a fun and approachable allegory to the hierarchical structure of our bodies, with each bee of thousands representing cells, dancing and secreting pheromones to communicate with each-other in charming ways. Like our brains, the bees sit in a chemical bath of complicated enzymes and neurotransmitters that fall in and out of balance. Beyond that, it is nice to have a casual academic interest that is as peaceful as bees. Many of us describe the enveloping sound of soft buzzing as being like music, a natural white noise.
 
 ![Beekeeping](./assets/img/beekeeping.PNG)
+
+*Operating a hand-crank centrifuge to extract honey from hive frames*
 
 ## Outdoors
 
