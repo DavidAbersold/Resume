@@ -12,6 +12,7 @@ layout: default
 My name is David Abersold. I am a sophomore psychology, neuroscience, and premedicine student at Miami University of Ohio. I am also a National Registry certified EMT, a lifeguard, and an admirer of living things. I have loved learning about the intricacies of organic things and how they coalesce into the comfortable, familiar, and the challenging.
 </div>
 
+
 <a href="mailto:davidabersold@gmail.com">Contact David Abersold</a>
 
 # Education
@@ -77,8 +78,7 @@ Climbing takes place in many natural areas claimed by the US government and priv
 
 ---
 
-##Miami Apiculture Society
-Extracting the past season's honey using a large hand-crank centrifuge.
+## Miami Apiculture Society
 
 A smaller club based around managing our ~6 hives on campus, and producing honey and other wax based products as well as advocacy for wilderness protection. We are guided by distinguished beekeeper and scientist Alex Zomchek. His knowledge is valuable to us, as well as his wisdom. Mr. Zomchek is known among us for his love of metaphor and allegory when talking about his bees, and there is so much that can be applied to bees. I find that they are a fun and approachable allegory to the hierarchical structure of our bodies, with each bee of thousands representing cells, dancing and secreting pheromones to communicate with each-other in charming ways. Like our brains, the bees sit in a chemical bath of complicated enzymes and neurotransmitters that fall in and out of balance. Beyond that, it is nice to have a casual academic interest that is as peaceful as bees. Many of us describe the enveloping sound of soft buzzing as being like music, a natural white noise.
 
