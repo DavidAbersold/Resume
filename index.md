@@ -21,6 +21,8 @@ Undergraduate psychology, neuroscience, and premed student at Miami University o
 
 Downingtown East High School, Exton, Pennsylvania; graduated in 2023 
 
+My [course work](./Coursework.html) has been cross-disciplinary, between my major and two co-majors.
+
 # Work Experience
 
 ---
