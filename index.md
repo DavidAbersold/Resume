@@ -4,14 +4,15 @@ layout: default
 > "...lay down in the sunlight, on pine needles, indifferent to the busy ants, the scrabbling squirrels, the crested jays, the galaxies of midges dancing in the sunrays, and slept."
 - The Monkey Wrench Gang, by Edward Abbey, one of my [favorite books](./favorite-books.html).
 
-<div style="background-color: #E6FFF2 ; padding: 10px; border: 1px #E6FFF2;"> 
-
 # Introduction
 
 ---
 
+<div style="background-color: #E6FFF2 ; padding: 10px; border: 1px #E6FFF2;"> 
 My name is David Abersold. I am a sophomore psychology, neuroscience, and premedicine student at Miami University of Ohio. I am also a National Registry certified EMT, a lifeguard, and an admirer of living things. I have loved learning about the intricacies of organic things and how they coalesce into the comfortable, familiar, and the challenging.
 </div>
+
+<a href="mailto:davidabersold@gmail.com">Contact David Abersold</a>
 
 # Education
 
