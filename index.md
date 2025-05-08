@@ -40,7 +40,7 @@ My longest held position, I have been going to the Lionville YMCA since I was a 
 
 * June 2024, approx 40 hours
 
-As part of certification, worked a total of 40 hours including responding to 12 calls as a third crew-member, alongside paramedics, EMTs, and AEMTs. Trained by Uwchlan Ambulance, my local and well respected ambulance company, and the National Registry on August 24th, 2024.
+As part of certification, worked a total of 40 hours including responding to 12 calls as a third crew-member, alongside paramedics, EMTs, and AEMTs. Trained by [Uwchlan Ambulance](https://www.station87.com/), my local and well respected ambulance company, and the National Registry on August 24th, 2024.
 
 
 ![Ambulance](./assets/img/ambulance.PNG)
@@ -54,7 +54,7 @@ As part of certification, worked a total of 40 hours including responding to 12 
 ## Climbing Club Safety Officer/Leader
 
 * 2023 - Present, approx 20 hours/month
-    Miami University's Climbing club that organized trips to various climbing areas in the Midwest. Known as a tight-knit community and one that inspires me to value the bonds between people the most. Certified in Wilderness First Aid by Wilderness Medical to promote safety in our sometimes dangerous sport.
+    [Miami University's Climbing club](https://miamioh.campuslabs.com/engage/organization/mubc) that organized trips to various climbing areas in the Midwest. Known as a tight-knit community and one that inspires me to value the bonds between people the most. Certified in Wilderness First Aid by Wilderness Medical to promote safety in our sometimes dangerous sport.
 
 Climbing takes place in many natural areas claimed by the US government and private owners. Often, they are under threat of destructive development or privatization. Protecting these places from closure is important to me as a political issue.
 
@@ -80,7 +80,7 @@ Climbing takes place in many natural areas claimed by the US government and priv
 
 ## Miami Apiculture Society
 
-A smaller club based around managing our ~6 hives on campus, and producing honey and other wax based products as well as advocacy for wilderness protection. We are guided by distinguished beekeeper and scientist Alex Zomchek. His knowledge is valuable to us, as well as his wisdom. Mr. Zomchek is known among us for his love of metaphor and allegory when talking about his bees, and there is so much that can be applied to bees. I find that they are a fun and approachable allegory to the hierarchical structure of our bodies, with each bee of thousands representing cells, dancing and secreting pheromones to communicate with each-other in charming ways. Like our brains, the bees sit in a chemical bath of complicated enzymes and neurotransmitters that fall in and out of balance. Beyond that, it is nice to have a casual academic interest that is as peaceful as bees. Many of us describe the enveloping sound of soft buzzing as being like music, a natural white noise.
+A [beekeeping club](https://www.instagram.com/miamibees/) based around managing our ~6 hives on campus, and producing honey and other wax based products as well as advocacy for wilderness protection. We are guided by distinguished beekeeper and scientist Alex Zomchek. His knowledge is valuable to us, as well as his wisdom. Mr. Zomchek is known among us for his love of metaphor and allegory when talking about his bees, and there is so much that can be applied to bees. I find that they are a fun and approachable allegory to the hierarchical structure of our bodies, with each bee of thousands representing cells, dancing and secreting pheromones to communicate with each-other in charming ways. Like our brains, the bees sit in a chemical bath of complicated enzymes and neurotransmitters that fall in and out of balance. Beyond that, it is nice to have a casual academic interest that is as peaceful as bees. Many of us describe the enveloping sound of soft buzzing as being like music, a natural white noise.
 
 ![Beekeeping](./assets/img/beekeeping.PNG)
 
