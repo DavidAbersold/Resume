@@ -36,7 +36,7 @@ My longest held position, I have been going to the Lionville YMCA since I was a 
 
 ![Lifeguarding](./assets/img/lifeguarding.PNG)
 
-*Training drill at a our "Lifeguard Games" event.* 
+*Training drill at our "Lifeguard Games" event.* 
 
 ## National Registry EMT
 
