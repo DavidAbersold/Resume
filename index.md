@@ -23,6 +23,12 @@ Downingtown East High School, Exton, Pennsylvania; graduated in 2023
 
 My [course work](./Coursework.html) has been cross-disciplinary, between my major and two co-majors.
 
+## Awards/Scholarship
+
+[Bridges Scholarship](https://miamioh.edu/visit-miami/bridges-program/index.html): 2023
+
+[Dean's List](https://miamioh.meritpages.com/stories/David-Abersold-Named-To-Dean-s-List-at-Miami-University/160686270): Spring 2025
+
 # Work Experience
 
 ---
