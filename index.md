@@ -38,7 +38,7 @@ My [course work](./Coursework.html) has been cross-disciplinary, between my majo
 * 2021-2025, approx. 60 hrs/month
 *Lifeguarded at YMCA summer camps, indoor/outdoor pools, and country clubs, where we were tested with live drills monthly. Certified in CPR/Oxygen/Rescue by Ellis & Associates.
 
-My longest held position, I have been going to the Lionville YMCA since I was a child. Where many friends who worked different jobs eventually left in frustration after a year or two, I have felt no need to leave except for new opportunities. I attribute this first to the kind people who work there, and to the communal nature of the building. It is satisfying to have a consistent community and administration that is responsive and present.
+My longest held position, I have been going to the Lionville YMCA since I was a child. I attribute this first to the kind people who work there, and to the communal nature of the YMCA. At the Y, I am expected to be the emergency response for the building, and I have managed several respiratory emergencies. Preparing for emergencies as a lifeguard is what lead me to seek my EMT certifications, where I could continue the skills I used to stabilize and deescalte these situations.
 
 ![Lifeguarding](./assets/img/lifeguarding.PNG)
 
