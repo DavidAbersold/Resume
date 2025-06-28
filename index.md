@@ -98,10 +98,6 @@ A [beekeeping club](https://www.instagram.com/miamibees/) based around managing 
 
 ## Outdoors
 
-I enjoy mountain biking and rock climbing often. The recentering effect of being in nature has been important to me all my life. I competed on mountain biking teams back home in Pennsylvania and at Miami’s own climbing competitions.
+I enjoy mountain biking and rock climbing often. The recentering effect of being in nature has been important to me all my life. I competed on mountain biking teams back home in Pennsylvania and at Miami’s own climbing competitions. I enjoy birdwatching and hiking too.
 
 ![Climbing](./assets/img/climbing.jpg)
-
-## Why Does this Resume Look Like This?
-
-In my free time, I like to edit and read Wikipedia, in both academic domains and wherever else I have the credentials. It is a wonderful way to discover new things and a miracle that so many talented scholars have contributed to create an open-sourced way to disseminate information about absolutely everything. So, this page is designed in the Wikimedia Foundations own MediaWiki, which is also an open-source tool. It is a framework I am familiar with and consider to be an effective and flexible way of compiling information, as a resume should be. 
