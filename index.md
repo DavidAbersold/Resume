@@ -46,14 +46,14 @@ My longest held position, I have been going to the Lionville YMCA since I was a 
 
 ## National Registry EMT
 
-* June 2024, approx 40 hours
+* June 2024, approx 40 hours on call, 120 hours of lecture training
 
 As part of certification, worked a total of 40 hours including responding to 12 calls as a third crew-member, alongside paramedics, EMTs, and AEMTs. Trained by [Uwchlan Ambulance](https://www.station87.com/), my local and well respected ambulance company, and the National Registry on August 24th, 2024.
 
 
 ![Ambulance](./assets/img/ambulance.PNG)
 
-*My Office*
+*The Office*
   
 # Clubs and Organizations
 
@@ -71,6 +71,15 @@ Climbing takes place in many natural areas claimed by the US government and priv
 * 2025 - Present, approx 10 hours/month
     Newly founded club that supports student EMS development as well as operating classes for programs such as Stop the Bleed and CPR.
 
+## Miami Apiculture Society President
+
+* 2023 - Present, approx 15 hours/month
+A [beekeeping club](https://www.instagram.com/miamibees/) based around managing our ~6 hives on campus, and producing honey and other wax based products as well as advocacy for wilderness protection. As president, I lead educational events for members and other guests, as well as participating in parts of Miami's own apiculture research. We are guided by distinguished beekeeper and scientist Alex Zomchek. His knowledge is valuable to us, as well as his wisdom. Mr. Zomchek is known among us for his love of metaphor and allegory when talking about his bees, and there is so much that can be applied to bees. I find that they are a fun and approachable allegory to the hierarchical structure of our bodies, with each bee of thousands representing cells, dancing and secreting pheromones to communicate with each-other in charming ways. Like our brains, the bees sit in a chemical bath of complicated enzymes and neurotransmitters that fall in and out of balance. Beyond that, it is nice to have a casual academic interest that is as peaceful as bees. Many of us describe the enveloping sound of soft buzzing as being like music, a natural white noise.
+
+![Beekeeping](./assets/img/beekeeping.PNG)
+
+*Operating a hand-crank centrifuge to extract honey from hive frames*
+
 ## International Adolescent Health Week Committee Member
 
 * 2021-2022, approx. 10 hrs/month
@@ -86,13 +95,6 @@ Climbing takes place in many natural areas claimed by the US government and priv
 
 ---
 
-## Miami Apiculture Society
-
-A [beekeeping club](https://www.instagram.com/miamibees/) based around managing our ~6 hives on campus, and producing honey and other wax based products as well as advocacy for wilderness protection. We are guided by distinguished beekeeper and scientist Alex Zomchek. His knowledge is valuable to us, as well as his wisdom. Mr. Zomchek is known among us for his love of metaphor and allegory when talking about his bees, and there is so much that can be applied to bees. I find that they are a fun and approachable allegory to the hierarchical structure of our bodies, with each bee of thousands representing cells, dancing and secreting pheromones to communicate with each-other in charming ways. Like our brains, the bees sit in a chemical bath of complicated enzymes and neurotransmitters that fall in and out of balance. Beyond that, it is nice to have a casual academic interest that is as peaceful as bees. Many of us describe the enveloping sound of soft buzzing as being like music, a natural white noise.
-
-![Beekeeping](./assets/img/beekeeping.PNG)
-
-*Operating a hand-crank centrifuge to extract honey from hive frames*
 
 ## Outdoors
 
