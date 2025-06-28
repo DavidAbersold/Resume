@@ -98,7 +98,9 @@ A [beekeeping club](https://www.instagram.com/miamibees/) based around managing 
 
 ## Outdoors
 
-I enjoy mountain biking and rock climbing often. The recentering effect of being in nature has been important to me all my life. I competed on mountain biking teams back home in Pennsylvania and at Miami’s own climbing competitions.  
+I enjoy mountain biking and rock climbing often. The recentering effect of being in nature has been important to me all my life. I competed on mountain biking teams back home in Pennsylvania and at Miami’s own climbing competitions.
+
+![Climbing](./assets/img/climbing.jpg)
 
 ## Why Does this Resume Look Like This?
 
