@@ -69,11 +69,13 @@ Climbing takes place in many natural areas claimed by the US government and priv
 ## EMS Club Member
 
 * 2025 - Present, approx 10 hours/month
-    Newly founded club that supports student EMS development as well as operating classes for programs such as Stop the Bleed and CPR.
+
+   Newly founded club that supports student EMS development as well as operating classes for programs such as Stop the Bleed and CPR.
 
 ## Miami Apiculture Society President
 
 * 2023 - Present, approx 15 hours/month
+
 A [beekeeping club](https://www.instagram.com/miamibees/) based around managing our ~6 hives on campus, and producing honey and other wax based products as well as advocacy for wilderness protection. As president, I lead educational events for members and other guests, as well as participating in parts of Miami's own apiculture research. We are guided by distinguished beekeeper and scientist Alex Zomchek. His knowledge is valuable to us, as well as his wisdom. Mr. Zomchek is known among us for his love of metaphor and allegory when talking about his bees, and there is so much that can be applied to bees. I find that they are a fun and approachable allegory to the hierarchical structure of our bodies, with each bee of thousands representing cells, dancing and secreting pheromones to communicate with each-other in charming ways. Like our brains, the bees sit in a chemical bath of complicated enzymes and neurotransmitters that fall in and out of balance. Beyond that, it is nice to have a casual academic interest that is as peaceful as bees. Many of us describe the enveloping sound of soft buzzing as being like music, a natural white noise.
 
 ![Beekeeping](./assets/img/beekeeping.PNG)
@@ -82,18 +84,21 @@ A [beekeeping club](https://www.instagram.com/miamibees/) based around managing 
 
 ## Anatomy Club Member
 * 2025 - Present, approx 5 hours/month
-    Club based around student-led anatomy education. With the club, I have dissected a squid and skate, performed a blood typing test, and donated blood.
+
+  Club based around student-led anatomy education. With the club, I have dissected a squid and skate, performed a blood typing test, and donated blood.
 
 
 ## International Adolescent Health Week Committee Member
 
 * 2021-2022, approx. 10 hrs/month
-    Worked alongside Dr. Laura Offutt, founder and director of International Adolescent Health Week to create events and messages that would promote adolescent health. Ex. A cooking event to teach a simple and healthy recipe. I was compensated via stipend.
+
+  Worked alongside Dr. Laura Offutt, founder and director of International Adolescent Health Week to create events and messages that would promote adolescent health. Ex. A cooking event to teach a simple and healthy recipe. I was compensated via stipend.
 
 ## Boy Scouts of America
 
 * 2016-2022, approx. 20 hrs/month
-    My introduction to first aid & responsible outdoorsmanship, and the seed for a love of nature. Plenty of community volunteering/projects (eg. preserving and marking trails, senior living volunteering, the classic boy scout bench project)
+
+  My introduction to first aid & responsible outdoorsmanship, and the seed for a love of nature. Plenty of community volunteering/projects (eg. preserving and marking trails, senior living volunteering, the classic boy scout bench project)
 
 
 # Hobbies/Other Activities
