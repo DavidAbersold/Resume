@@ -80,6 +80,11 @@ A [beekeeping club](https://www.instagram.com/miamibees/) based around managing 
 
 *Operating a hand-crank centrifuge to extract honey from hive frames*
 
+## Anatomy Club Member
+* 2025 - Present, approx 5 hours/month
+    Club based around student-led anatomy education. With the club, I have dissected a squid and skate, performed a blood typing test, and donated blood.
+
+
 ## International Adolescent Health Week Committee Member
 
 * 2021-2022, approx. 10 hrs/month
